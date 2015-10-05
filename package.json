@@ -1,0 +1,23 @@
+{
+  "name": "iptoas",
+  "version": "1.0.0",
+  "description": "Uses http://www.team-cymru.org/ to resolve ASN information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ichbinjoe/iptoas.git"
+  },
+  "keywords": [
+    "ip",
+    "asn"
+  ],
+  "author": "Joseph Hirschfeld",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ichbinjoe/iptoas/issues"
+  },
+  "homepage": "https://github.com/Ichbinjoe/iptoas#readme"
+}
